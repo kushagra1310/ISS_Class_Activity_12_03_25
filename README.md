@@ -24,3 +24,5 @@ comma between parameters in line 13
 function names fixed in lines 16,19
 == num condition added in line 16
 *** changed to ** in line 9
+output on running:
+1634
